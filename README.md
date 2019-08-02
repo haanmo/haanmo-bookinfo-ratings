@@ -1,0 +1,1 @@
+# haanmo-bookinfo-ratings
