@@ -26,7 +26,7 @@ if (process.env.SERVICE_VERSION === 'v-unavailable') {
     // make the service unavailable once in 60 seconds
     setInterval(function () {
         unavailable = !unavailable
-    }, 70000);
+    }, 80000);
 }
 
 if (process.env.SERVICE_VERSION === 'v-unhealthy') {
